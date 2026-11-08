@@ -2,7 +2,7 @@
 
 Pre-release messaging, calls, file sharing and collaborative workspaces for Apple devices.
 
-[Official product website](https://wonek.com/)
+[Official product website](https://wonek.com/) · [Side-by-side comparisons](https://wonek.com/compare/) · [Guides & workflows](https://wonek.com/guides/) · [Full LLM reference (llms-full.txt)](https://wonek.com/llms-full.txt) · [Arte Soft EOOD](https://arte-soft.com/)
 
 ## Who this is for
 
