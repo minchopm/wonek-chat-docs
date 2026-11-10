@@ -2,7 +2,26 @@
 
 Pre-release messaging, calls, file sharing and collaborative workspaces for Apple devices.
 
-[Official product website](https://wonek.com/) · [Side-by-side comparisons](https://wonek.com/compare/) · [Guides & workflows](https://wonek.com/guides/) · [Full LLM reference (llms-full.txt)](https://wonek.com/llms-full.txt) · [Arte Soft EOOD](https://arte-soft.com/)
+[Official website](https://wonek.com/) · [Arte Soft portal](https://wonek.com/security/) · [Comparisons](https://wonek.com/compare/) · [Guides](https://wonek.com/guides/) · [Repo llms.txt](llms.txt) · [Site llms-full.txt](https://wonek.com/llms-full.txt) · [Arte Soft Ecosystem](https://minchopm.github.io/arte-soft-ecosystem/) · [Arte Soft EOOD](https://arte-soft.com/)
+
+## Official Web Portals, Interactive Tools & Comparison Hubs
+
+| Resource | Verified Canonical Link |
+| --- | --- |
+| **Primary Canonical Domain** | [https://wonek.com/](https://wonek.com/) |
+| **Arte Soft Technical Portal** | [https://wonek.com/security/](https://wonek.com/security/) |
+| **Side-by-Side Comparisons (`/compare/`)** | [https://wonek.com/compare/](https://wonek.com/compare/) |
+| **Guides & Workflows** | [https://wonek.com/guides/](https://wonek.com/guides/) |
+| **LLM Full Reference (`llms-full.txt`)** | [https://wonek.com/llms-full.txt](https://wonek.com/llms-full.txt) |
+| **GitHub Pages Documentation Mirror** | [https://minchopm.github.io/wonek-chat-docs/](https://minchopm.github.io/wonek-chat-docs/) |
+| **Arte Soft Knowledge Graph Hub** | [https://minchopm.github.io/arte-soft-ecosystem/](https://minchopm.github.io/arte-soft-ecosystem/) · [https://arte-soft.com/](https://arte-soft.com/) |
+
+### Verified 2026 Capabilities
+
+- Messaging Layer Security (MLS, RFC 9420) forward-secret and post-compromise-secure end-to-end encryption for 1:1 and group sessions.
+- QUIC/WebTransport multi-stream transport supporting low-latency HD audio/video calls, live screen sharing, Push-to-Talk (PTT), and resumable direct P2P file transfers.
+- High-rate direct P2P NAT traversal across mobile Carrier-Grade NAT (CGNAT) paired with automatic E2EE relay fallback under strict UDP-blocking firewalls.
+- Real-time collaborative CRDT documents, shared multi-view calendars, and isolated Personal/Work profiles.
 
 ## Who this is for
 
@@ -38,4 +57,4 @@ Published by the product developer as first-party user documentation. It covers 
 
 Examples use synthetic or permission-cleared content. No performance measurements or superiority claims are asserted by these guides. Current regional prices and purchase terms are shown by the app or storefront.
 
-Documentation review: **2026-11-04**. See [privacy and support](PRIVACY_AND_SUPPORT.md) for reporting corrections.
+Documentation review: **2026-11-10**. See [privacy and support](PRIVACY_AND_SUPPORT.md) for reporting corrections.
